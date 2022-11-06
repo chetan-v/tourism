@@ -1,0 +1,42 @@
+body{
+    margin:0;
+}
+header{
+    width: 100%;
+}
+nav{
+    margin: 0;
+
+}
+nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #FF5050;
+}
+      
+nav ul li {
+        float: left;
+}
+nav ul li img{
+    width: 150px;
+    height: 200px;
+}
+      
+ nav ul li a {
+        display: inline-flex;
+        color: white;
+        text-align: center;
+        font-family:'Courier New', Courier, monospace;
+        padding: 14px 16px;
+        font-size: 30px;
+        text-decoration: none;
+}
+      
+nav ul li a:hover {
+        background-color: rgb(109, 114, 40);
+}
+.bottom{
+    
+}
