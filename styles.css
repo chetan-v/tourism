@@ -37,9 +37,17 @@ nav ul li img{
 nav ul li a:hover {
         background-color: rgb(109, 114, 40);
 }
-.bottom{
-    
+.photoGallery{
+    display: inline-block;
+    size:400px;
 }
-.middle{
-    
+.bottom{
+    text-align: center;
+    background-color: #FF5050;
+    padding: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.middl1e{
+
+display: inline-block;
 }
